@@ -1,0 +1,21 @@
+# Node.js (frontend)
+frontend/node_modules/
+frontend/dist/
+
+# Java (backend)
+backend/target/
+*.log
+
+# IntelliJ / VSCode
+.idea/
+.vscode/
+
+# Environment & config
+*.env
+frontend/.env
+backend/.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
